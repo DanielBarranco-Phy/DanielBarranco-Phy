@@ -1,7 +1,7 @@
 ## Hi! I'm Daniel Barranco 🚀
 
 
-I'm a final-year physics student in the UK with a passion for data, currently developing my skills into machine learning and coding. I'm also passionate about solving real-world problems, getting meaningful insights and optimizing processes through data. 📈
+I'm a final-year physics student in the UK with a passion for data, currently developing my skills into machine learning, data analysis and coding. I'm also passionate about solving real-world problems, getting meaningful insights and optimizing processes through data. 📈
 
 
 I’m currently working on my dissertation: 
