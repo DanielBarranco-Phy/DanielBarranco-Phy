@@ -19,4 +19,4 @@ Tools I reach for instinctively
 * Local LLMs and Prompt Engineering
 * Data Automation and SQL
 
-I am currently pursuing the Microsoft Azure AI Apps and Agents Developer Associate certification and seeking Graduate AI Engineer roles across the UK and Europe. I am always open to new challenges, technical discussions, and collaborative engineering opportunities. 😁
+I am currently seeking Graduate AI Automation Engineer roles (and AI/ML Engineering roles) across the UK and Europe. I am always open to new challenges, technical discussions, and collaborative engineering opportunities. 😁
